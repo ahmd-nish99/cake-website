@@ -96,6 +96,10 @@ include_once "nav.php";
 
 <!-- -----------------------------------------------why here section of code ENDS HERE----------------------------------------------------------------------------- -->
 
+<div class=" d-flex justify-content-center my-5 ">
+          <hr class="solid">
+    </div>
+
 <!-- -----------------------------------------------3D BOX STARTS HERE----------------------------------------------------------------------------- -->
 
 
@@ -219,7 +223,7 @@ include_once "nav.php";
           </p>
     </div>
     <div class="col-lg-5 d-flex justify-content-center">
-      <img calss='' src="assets/images/sck.png" alt="">
+      <img class="img-fluid hover-shadow" src="assets/images/sck.png" alt="">
 
     </div>
 

@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-lg navbar-light sticky-top" style="background-color: white;">
-    <a class="navbar-brand" href="#"><img src="https://codingyaar.com/wp-content/uploads/logo.png"></a>
+    <a class="navbar-brand mx-2" href="#"><img src="assets/images/footer-logo.png"></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#myNavbarToggler10" aria-controls="myNavbarToggler10" aria-expanded="true" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
