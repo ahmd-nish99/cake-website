@@ -39,10 +39,10 @@ include_once "nav.php";
 <div class="container my-5 justify-contents-center">
     <div class="row d-flex justify-content-center">
         <div class=" col-lg-4 d-flex justify-content-center">
-                    <div class="card mb-3" style="max-width: 540px;">
+                    <div class="card mb-3 border-0" style="max-width: 540px;">
                         <div class="row g-0">
                             <div class="col-md-4">
-                            <img src="assets/images/instagram-1.jpg" class="img-fluid rounded-start h-100" alt="...">
+                            <img src="assets/images/cp.png" class="img-fluid rounded-start " alt="...">
                             </div>
                             <div class="col-md-8">
                             <div class="card-body">
@@ -56,10 +56,10 @@ include_once "nav.php";
         </div>
 
          <div class=" col-lg-4 d-flex justify-content-center">
-         <div class="card mb-3" style="max-width: 540px;">
+         <div class="card mb-3 border-0" style="max-width: 540px;">
                         <div class="row g-0">
                             <div class="col-md-4">
-                            <img src="assets/images/instagram-1.jpg" class="img-fluid rounded-start h-100" alt="...">
+                            <img src="assets/images/cp.png" class="img-fluid rounded-start " alt="...">
                             </div>
                             <div class="col-md-8">
                             <div class="card-body">
@@ -75,10 +75,10 @@ include_once "nav.php";
         </div>
 
         <div class=" col-lg-4 d-flex justify-content-center">
-        <div class="card mb-3" style="max-width: 540px;">
+        <div class="card mb-3 border-0 " style="max-width: 540px;">
                         <div class="row g-0">
                             <div class="col-md-4">
-                            <img src="assets/images/instagram-1.jpg" class="img-fluid rounded-start h-100" alt="...">
+                            <img src="assets/images/cp.png" class="img-fluid rounded-start " alt="...">
                             </div>
                             <div class="col-md-8">
                             <div class="card-body">
@@ -105,10 +105,10 @@ include_once "nav.php";
 <div class="container my-5">
   <div class="row  d-flex justify-content-center ">
     <div class="col-lg-10  d-flex justify-content-center">
-    <div class="card mb-3" >
+    <div class="card mb-3 border-0" >
   <div class="row g-0">
     <div class="col-md-4 d-flex justify-content-center">
-      <img src="assets/images/instagram-1.jpg" class="img-fluid rounded-start" alt="...">
+      <img src="assets/images/cpck.png" class="img-fluid rounded-start" alt="...">
     </div>
     <div class="col-md-8">
       <div class="card-body">
@@ -157,22 +157,22 @@ include_once "nav.php";
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-4 col-6">
                             <div class="instagram__pic middle__pic">
-                                <img src="assets/images/instagram-1.jpg" alt="">
+                                <img src="assets/images/instagram-2.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-4 col-6">
                             <div class="instagram__pic">
-                                <img src="assets/images/instagram-1.jpg" alt="">
+                                <img src="assets/images/instagram-3.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-4 col-6">
                             <div class="instagram__pic">
-                                <img src="assets/images/instagram-1.jpg" alt="">
+                                <img src="assets/images/instagram-4.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-4 col-6">
                             <div class="instagram__pic middle__pic">
-                                <img src="assets/images/instagram-1.jpg" alt="">
+                                <img src="assets/images/instagram-5.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-4 col-6">
@@ -219,7 +219,7 @@ include_once "nav.php";
           </p>
     </div>
     <div class="col-lg-5 d-flex justify-content-center">
-      <img src="assets/images/instagram-1.jpg" alt="">
+      <img calss='' src="assets/images/sck.png" alt="">
 
     </div>
 

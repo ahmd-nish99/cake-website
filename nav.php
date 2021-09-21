@@ -1,0 +1,27 @@
+<nav class="navbar navbar-expand-lg navbar-light sticky-top" style="background-color: white;">
+    <a class="navbar-brand" href="#"><img src="https://codingyaar.com/wp-content/uploads/logo.png"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#myNavbarToggler10" aria-controls="myNavbarToggler10" aria-expanded="true" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="myNavbarToggler10">
+        <ul class="navbar-nav mx-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="#">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">About</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Contact</a>
+            </li>
+        </ul>
+        
+        <ul class="navbar-nav sm-icons">
+            <li class="nav-item"><a class="nav-link" href="#"><i class="fab fa-facebook-f"></i></a></li>
+            <li class="nav-item"><a class="nav-link" href="#"><i class="fab fa-instagram"></i></a></li>
+            <li class="nav-item"><a class="nav-link" href="#"><i class="fab fa-twitter"></i></a></li>
+            <li class="nav-item"><a class="nav-link" href="#"><i class="fab fa-pinterest-p"></i></a></li>
+        </ul>
+    </div>
+</nav>
+
