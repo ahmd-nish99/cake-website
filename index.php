@@ -39,41 +39,56 @@ include_once "nav.php";
 <div class="container my-5 justify-contents-center">
     <div class="row d-flex justify-content-center">
         <div class=" col-lg-4 d-flex justify-content-center">
-        <div class="card-big-shadow">
-            <div class="card card-just-text" data-background="color" data-color="blue" data-radius="none">
-                <div class="content">
-                    <h6 class="category">Best cards</h6>
-                    <h4 class="title"><a href="#">Yellow Card</a></h4>
-                    <p class="description">What all of these have in common is that they're pulling information out of the app or the service and making it relevant to the moment. </p>
-                </div>
-            </div> <!-- end card -->
-        </div>
+                    <div class="card mb-3" style="max-width: 540px;">
+                        <div class="row g-0">
+                            <div class="col-md-4">
+                            <img src="assets/images/instagram-1.jpg" class="img-fluid rounded-start h-100" alt="...">
+                            </div>
+                            <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
         </div>
 
          <div class=" col-lg-4 d-flex justify-content-center">
-         <div class="card-big-shadow">
-            <div class="card card-just-text" data-background="color" data-color="yellow" data-radius="none">
-                <div class="content">
-                    <h6 class="category">Best cards</h6>
-                    <h4 class="title"><a href="#">Yellow Card</a></h4>
-                    <p class="description">What all of these have in common is that they're pulling information out of the app or the service and making it relevant to the moment. </p>
-                </div>
-            </div> <!-- end card -->
-        </div>
+         <div class="card mb-3" style="max-width: 540px;">
+                        <div class="row g-0">
+                            <div class="col-md-4">
+                            <img src="assets/images/instagram-1.jpg" class="img-fluid rounded-start h-100" alt="...">
+                            </div>
+                            <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+     
 
         </div>
 
         <div class=" col-lg-4 d-flex justify-content-center">
-        <div class="card-big-shadow">
-            <div class="card card-just-text" data-background="color" data-color="blue" data-radius="none">
-                <div class="content">
-                    <h6 class="category">Best cards</h6>
-                    <h4 class="title"><a href="#">Yellow Card</a></h4>
-                    <p class="description">What all of these have in common is that they're pulling information out of the app or the service and making it relevant to the moment. </p>
-                </div>
-            </div> <!-- end card -->
-        </div>
-
+        <div class="card mb-3" style="max-width: 540px;">
+                        <div class="row g-0">
+                            <div class="col-md-4">
+                            <img src="assets/images/instagram-1.jpg" class="img-fluid rounded-start h-100" alt="...">
+                            </div>
+                            <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
         </div>
 
     </div>
