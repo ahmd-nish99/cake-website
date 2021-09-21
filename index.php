@@ -7,6 +7,9 @@ include_once "head.php";
 include_once "nav.php";
 
 ?>
+
+
+
 <!-- ---------------------------------------------carousel sarts here---------------------------------------------------------- -->
 
 <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
@@ -38,22 +41,23 @@ include_once "nav.php";
 
 <div class="container my-5 justify-contents-center">
     <div class="row d-flex justify-content-center">
-        <div class=" col-lg-4 d-flex justify-content-center">
+        <div class=" col-lg-4 d-flex justify-content-center " >
                     <div class="card mb-3 border-0" style="max-width: 540px;">
                         <div class="row g-0">
                             <div class="col-md-4">
-                            <img src="assets/images/cp.png" class="img-fluid rounded-start " alt="...">
+                            <img src="assets/images/cp.png" class="img-fluid rounded-start product_item_pic " alt="...">
                             </div>
                             <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
-                                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                                <h5 class="card-title headings">Card title</h5>
+                                <p class="card-text pfont">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+
                             </div>
                             </div>
                         </div>
                     </div>
         </div>
+        
 
          <div class=" col-lg-4 d-flex justify-content-center">
          <div class="card mb-3 border-0" style="max-width: 540px;">
@@ -63,9 +67,9 @@ include_once "nav.php";
                             </div>
                             <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
-                                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                                <h5 class="card-title headings">Card title</h5>
+                                <p class="card-text pfont">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                              
                             </div>
                             </div>
                         </div>
@@ -82,9 +86,9 @@ include_once "nav.php";
                             </div>
                             <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
-                                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                                <h5 class="card-title headings">Card title</h5>
+                                <p class="card-text pfont">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        
                             </div>
                             </div>
                         </div>
@@ -107,8 +111,8 @@ include_once "nav.php";
 
 
 <div class="container my-5">
-  <div class="row  d-flex justify-content-center ">
-    <div class="col-lg-10  d-flex justify-content-center">
+  <div class="row  d-flex justify-content-center " >
+    <div class="col-lg-10  d-flex justify-content-center"  data-aos="zoom-out-up">
     <div class="card mb-3 border-0" >
   <div class="row g-0">
     <div class="col-md-4 d-flex justify-content-center">
@@ -116,8 +120,8 @@ include_once "nav.php";
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        <h5 class="card-title headings">Card title</h5>
+        <p class="card-text pfont">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
         <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
       </div>
     </div>
@@ -146,10 +150,10 @@ include_once "nav.php";
                 <div class="col-lg-4 p-0">
                     <div class="instagram__text">
                         <div class="section-title">
-                            <span>Follow us on instagram</span>
-                            <h2>Sweet moments are saved as memories.</h2>
+                         
+                            <span class="headings" style="font-size :56px;" >Sweet moments are saved  as memories.</span>
                         </div>
-                        <h5><i class="fa fa-instagram"></i> @sweetcake</h5>
+              
                     </div>
                 </div>
                 <div class="col-lg-8">
@@ -199,38 +203,36 @@ include_once "nav.php";
 
     <!-- -----------------------------------------------ABOUT US PORTION STARTS HERE----------------------------------------------------------------------------- -->
 
-<div class="container d-flex justify-content-center my-5">
-        
-<div class="contact__address">
-                <div class="row">
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                       
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                      
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                     
-                    </div>
-                </div>
-            </div>
-  <div class="row d-flex justify-content-center my-3">
-    <div class="col-lg-5 justify-content-center">
-          <h1>this is a test section is in here</h1>
-          <p>
-            thiuss jsjdbousbubfou <br>
-            ioeidfbsoilibfnosnfos <br>
-          </p>
-    </div>
-    <div class="col-lg-5 d-flex justify-content-center">
-      <img class="img-fluid hover-shadow" src="assets/images/sck.png" alt="">
+<div class="container">
+<div class="row">
+<div class="col-sm-6 justify-content-center">
+<span class= "headings justify-content-center">About US </span>
 
-    </div>
+<br>
+<p class="pfont">
 
-  </div>
+Kim Jong-un[a][b] (/ˌkɪm dʒɒŋˈʊn, -ˈʌn/;[6] Korean: 김정은; Korean: [kim.dzɔŋ.ɯn];[c] born 8 January 1982 or 1983) is a North Korean politician who has been Supreme Leader of North Korea since 2011 and the leader of the Workers' Party of Korea (WPK) since 2012.[d] He is the second child of Kim Jong-il, who was North Korea's second supreme leader from 1994 to 2011, and Ko Yong-hui. He is the grandson of Kim Il-sung, who was the founder and first supreme leader of North Korea from its establishment in 1948 until his death in 1994.
+
+From late 2010, Kim Jong-un was viewed as successor to the
+</p>
+</div>
+
+
+<div class="col-sm-6 d-flex justify-content-center">
+ <img src="assets/images/sck.png" alt="" class="img-fluid">
+</div>
+
+
 
 
 </div>
+
+
+
+</div>
+
+
+
 
 <!-- -----------------------------------------------ABOUT US PORTION ENDS HERE----------------------------------------------------------------------------- -->
 
