@@ -203,10 +203,39 @@ include_once "nav.php";
 
     <!-- -----------------------------------------------ABOUT US PORTION STARTS HERE----------------------------------------------------------------------------- -->
 
+<<<<<<< Updated upstream
 <div class="container">
 <div class="row">
 <div class="col-sm-6 justify-content-center">
 <span class= "headings justify-content-center">About US </span>
+=======
+<div class="container d-flex justify-content-center my-5">
+        
+<div class="contact__address">
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                       
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                      
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                     
+                    </div>
+                </div>
+            </div>
+  <div class="row d-flex justify-content-center my-3">
+    <div class="col-lg-5 justify-content-center">
+          <h1>this is a test section is in here</h1>
+          <p>
+          thiuss jsjdbousbubfou iubsgiboiuooebfyiwgefyisgvbefyiefyusgfuygvseyufuvsyuefvyusvfusyvfuy
+            sevfusevfuesvfusevefeiasruigpuiarghaph p ouaehg ouphaesg uosgn guisgj oje gbhlkgblhg  g hegg housgeh bhthiuss jsjdbousbubfou iubsgiboiuooebfyiwgefyisgvbefyiefyusgfuygvseyufuvsyuefvyusvfusyvfuy
+            sevfusevfuesv
+          </p>
+    </div>
+    <div class="col-lg-5 d-flex justify-content-center">
+      <img class="img-fluid hover-shadow" src="assets/images/sck.png" alt="" style="height: min-content;">
+>>>>>>> Stashed changes
 
 <br>
 <p class="pfont">

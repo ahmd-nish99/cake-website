@@ -240,7 +240,11 @@ include_once "nav.php";
         </div>
     </section>
     <!-- Shop Section End -->
-
+    <img
+    src="assets/images/wave-haikei.svg"
+    alt="triangle with all three sides equal"
+    style="height: auto; width: 100%; margin-top:-50%;"
+    />
     <!-------------------------------------------------- Contact Section End --------------------------------------------------------------->
 <?php
 
