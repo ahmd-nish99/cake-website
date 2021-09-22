@@ -15,13 +15,13 @@ include_once "nav.php";
 <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="assets/images/xyz.jpg" class="d-block w-100" alt="...">
+      <img src="assets/images/main.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="assets/images/xyz.jpg" class="d-block w-100" alt="...">
+      <img src="assets/images/main.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="assets/images/xy.jpg" class="d-block w-100" alt="...">
+      <img src="assets/images/main.jpg" class="d-block w-100" alt="...">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
@@ -32,16 +32,18 @@ include_once "nav.php";
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
+  
 </div>
 
 <!-- -----------------------------------------------carousel ends here----------------------------------------------------------------------------- -->
 
 
+
 <!-- -----------------------------------------------why her is in this section of code----------------------------------------------------------------------------- -->
 
-<div class="container my-5 justify-contents-center">
+<div class="container my-5 justify-contents-center ">
     <div class="row d-flex justify-content-center">
-        <div class=" col-lg-4 d-flex justify-content-center " >
+        <div class=" col-lg-4 d-flex justify-content-center " data-aos="zoom-in-up" >
                     <div class="card mb-3 border-0" style="max-width: 540px;">
                         <div class="row g-0">
                             <div class="col-md-4">
@@ -49,7 +51,7 @@ include_once "nav.php";
                             </div>
                             <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title headings">Card title</h5>
+                                <h5 class="card-title headings">Choose US</h5>
                                 <p class="card-text pfont">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
 
                             </div>
@@ -59,7 +61,7 @@ include_once "nav.php";
         </div>
         
 
-         <div class=" col-lg-4 d-flex justify-content-center">
+         <div class=" col-lg-4 d-flex justify-content-center" data-aos="zoom-in-up">
          <div class="card mb-3 border-0" style="max-width: 540px;">
                         <div class="row g-0">
                             <div class="col-md-4">
@@ -67,7 +69,7 @@ include_once "nav.php";
                             </div>
                             <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title headings">Card title</h5>
+                                <h5 class="card-title headings">Choose US</h5>
                                 <p class="card-text pfont">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                               
                             </div>
@@ -78,7 +80,7 @@ include_once "nav.php";
 
         </div>
 
-        <div class=" col-lg-4 d-flex justify-content-center">
+        <div class=" col-lg-4 d-flex justify-content-center" data-aos="zoom-in-up">
         <div class="card mb-3 border-0 " style="max-width: 540px;">
                         <div class="row g-0">
                             <div class="col-md-4">
@@ -86,7 +88,7 @@ include_once "nav.php";
                             </div>
                             <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title headings">Card title</h5>
+                                <h5 class="card-title headings">Choose US</h5>
                                 <p class="card-text pfont">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
         
                             </div>
@@ -110,7 +112,7 @@ include_once "nav.php";
 
 
 
-<div class="container my-5">
+<div class="container my-5 bgsection">
   <div class="row  d-flex justify-content-center " >
     <div class="col-lg-10  d-flex justify-content-center"  data-aos="zoom-out-up">
     <div class="card mb-3 border-0" >
@@ -122,7 +124,6 @@ include_once "nav.php";
       <div class="card-body">
         <h5 class="card-title headings">Card title</h5>
         <p class="card-text pfont">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
       </div>
     </div>
   </div>
@@ -136,18 +137,14 @@ include_once "nav.php";
 
 <!-- -----------------------------------------------3D BOX OF code ENDS HERE----------------------------------------------------------------------------- -->
 
-<div class=" d-flex justify-content-center my-5 ">
-          <hr class="solid">
-    </div>
 
-    
 
 
     <!------------------------------------------ Instagram Section Begin ------------------------------------------------------------------->
-    <section class="instagram spad">
+    <section class="instagram spad bgsvg">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4 p-0">
+                <div class="col-lg-4 p-0" data-aos="zoom-in-right">
                     <div class="instagram__text">
                         <div class="section-title">
                          
@@ -156,7 +153,7 @@ include_once "nav.php";
               
                     </div>
                 </div>
-                <div class="col-lg-8">
+                <div class="col-lg-8" data-aos="zoom-in-left">
                     <div class="row">
                         <div class="col-lg-4 col-md-4 col-sm-4 col-6">
                             <div class="instagram__pic">
@@ -195,61 +192,32 @@ include_once "nav.php";
     </section>
     <!---------------------------------------------------------- Instagram Section End ----------------------------------------------------------->
 
-    <div class=" d-flex justify-content-center my-5 ">
-          <hr class="solid">
-    </div>
 
     
 
     <!-- -----------------------------------------------ABOUT US PORTION STARTS HERE----------------------------------------------------------------------------- -->
 
-<<<<<<< Updated upstream
-<div class="container">
-<div class="row">
-<div class="col-sm-6 justify-content-center">
-<span class= "headings justify-content-center">About US </span>
-=======
 <div class="container d-flex justify-content-center my-5">
         
-<div class="contact__address">
-                <div class="row">
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                       
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                      
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                     
-                    </div>
-                </div>
-            </div>
+
   <div class="row d-flex justify-content-center my-3">
-    <div class="col-lg-5 justify-content-center">
-          <h1>this is a test section is in here</h1>
-          <p>
-          thiuss jsjdbousbubfou iubsgiboiuooebfyiwgefyisgvbefyiefyusgfuygvseyufuvsyuefvyusvfusyvfuy
-            sevfusevfuesvfusevefeiasruigpuiarghaph p ouaehg ouphaesg uosgn guisgj oje gbhlkgblhg  g hegg housgeh bhthiuss jsjdbousbubfou iubsgiboiuooebfyiwgefyisgvbefyiefyusgfuygvseyufuvsyuefvyusvfusyvfuy
+    <div class="col-lg-5 justify-content-start" data-aos="fade-right">
+        <span class="headings">This is the heading section of this portion</span>
+          <p class="pfont my-5" style="font-size: larger;">  
+          thiuss jsjdbousbubfou iubsgiboiuo oebfyiwgefyisgvbefyiefy usgfuygvseyu fuvsyuefvyusvfusyvfuy
+            sevfusevfuesvfusevefe iasruigpuiarghaph p ouaehg ouphaesg uosgn guisgj oje gbhlkgblhg  g hegg housgeh bhthiuss jsjdbousbubfou iubsgiboiuooebfyiwgefyisgvb
+            efyiefyusgfuygvseyuf uvsyuefvyusvfusyvfuy
             sevfusevfuesv
           </p>
     </div>
-    <div class="col-lg-5 d-flex justify-content-center">
-      <img class="img-fluid hover-shadow" src="assets/images/sck.png" alt="" style="height: min-content;">
->>>>>>> Stashed changes
+    <div class="col-lg-5 d-flex justify-content-center" data-aos="fade-left" >
+      <img class="img-fluid hover-shadow" src="assets/images/toa-heftiba-gvopak04iIM-unsplash.jpg" alt="" style="height: min-content;">
+   
 
-<br>
-<p class="pfont">
-
-Kim Jong-un[a][b] (/ˌkɪm dʒɒŋˈʊn, -ˈʌn/;[6] Korean: 김정은; Korean: [kim.dzɔŋ.ɯn];[c] born 8 January 1982 or 1983) is a North Korean politician who has been Supreme Leader of North Korea since 2011 and the leader of the Workers' Party of Korea (WPK) since 2012.[d] He is the second child of Kim Jong-il, who was North Korea's second supreme leader from 1994 to 2011, and Ko Yong-hui. He is the grandson of Kim Il-sung, who was the founder and first supreme leader of North Korea from its establishment in 1948 until his death in 1994.
-
-From late 2010, Kim Jong-un was viewed as successor to the
-</p>
 </div>
 
 
-<div class="col-sm-6 d-flex justify-content-center">
- <img src="assets/images/sck.png" alt="" class="img-fluid">
-</div>
+
 
 
 
@@ -266,26 +234,16 @@ From late 2010, Kim Jong-un was viewed as successor to the
 <!-- -----------------------------------------------ABOUT US PORTION ENDS HERE----------------------------------------------------------------------------- -->
 
     <!--------------------------------------------------------- Contact Section Begin ------------------------------------------------------>
-    <section class="contact spad mb-5">
-        <div class="container">
+    <section class="contact  mb-5 zoro parallax" >
+        <div class="container" data-aos="fade-up">
       
-            <div class="contact__address">
-                <div class="row">
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                       
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                      
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                     
-                    </div>
-                </div>
-            </div>
+         
             <div class="row">
                 <div class="col-lg-4">
-                    <div class="contact__text">
-                        <h3>Contact With us</h3>
+                    <div class="">
+                        <span class="headings" style="font-size: 60px;">
+                        Contact With us
+                        </span>
                         <ul>
                             <li>Representatives or Advisors are available:</li>
                             <li>Mon-Fri: 5:00am to 9:00pm</li>

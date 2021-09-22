@@ -23,5 +23,8 @@
             <li class="nav-item"><a class="nav-link" href="#"><i class="fab fa-pinterest-p"></i></a></li>
         </ul>
     </div>
+    <div class="strtr" style="margin-top: -50%;">
+
+    </div>
 </nav>
 
