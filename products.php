@@ -51,7 +51,7 @@ include_once "nav.php";
                             </div>
                         </div>
                         <div class="product__item__text">
-                            <h6><a href="#">Dozen Cupcakes</a></h6>
+                            <h6><a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal">Dozen Cupcakes</a></h6>
                             <div class="product__item__price">$32.00</div>
                             <div class="cart_add">
                                 <a href="#">Add to cart</a>
@@ -239,12 +239,49 @@ include_once "nav.php";
         
         </div>
     </section>
+
+    
     <!-- Shop Section End -->
     <img
     src="assets/images/wave-haikei.svg"
     alt="triangle with all three sides equal"
     style="height: auto; width: 100%; margin-top:-50%;"
     />
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="">
+                    <div class="product__item">
+                        <div class="product__item__pic set-bg" data-setbg="assets/images/product-12.jpg">
+                            <div class="product__label">
+                                <span>Cupcake</span>
+                            </div>
+                        </div>
+                        <div class="product__item__text">
+                            <h6><a href="#">PALE YELLOW SWEET</a></h6>
+                            <div class="product__item__price">$22.47</div>
+                            <div class="cart_add">
+                                <a href="#">Add to cart</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+   
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+    
     <!-------------------------------------------------- Contact Section End --------------------------------------------------------------->
 <?php
 

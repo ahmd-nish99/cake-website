@@ -6,13 +6,13 @@
     <div class="collapse navbar-collapse" id="myNavbarToggler10">
         <ul class="navbar-nav mx-auto">
             <li class="nav-item">
-                <a class="nav-link headings" href="#">Home</a>
+                <a class="nav-link headings" href="./index.php">Home</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link headings" href="#">About</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link headings " href="#">Contact</a>
+                <a class="nav-link headings " href="./products.php">Menu</a>
             </li>
         </ul>
         
