@@ -197,7 +197,7 @@ include_once "nav.php";
 
     <!-- -----------------------------------------------ABOUT US PORTION STARTS HERE----------------------------------------------------------------------------- -->
 
-<div class="container d-flex justify-content-center my-5">
+<div class="container d-flex justify-content-center my-5 ">
         
 
   <div class="row d-flex justify-content-center my-3">
