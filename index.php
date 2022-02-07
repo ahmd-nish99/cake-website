@@ -108,6 +108,38 @@ include_once "nav.php";
 
 <!-- -----------------------------------------------3D BOX STARTS HERE----------------------------------------------------------------------------- -->
 
+<!-- -----------------------------------------------Feature products starts here---------------------------------------------------------------------------- -->
+
+        <div class="container text-center">
+            <h1>Feature Products</h1>
+            <div class="row">
+                <div class="col-md-3 text-center feature-name">
+                <img src="assets/images/cp.png" class="img-fluid rounded-start " alt="...">
+                <h4>Cake</h4>
+                </div>
+
+                <div class="col-md-3 text-center feature-name">
+                <img src="assets/images/cp.png" class="img-fluid rounded-start " alt="...">
+                <h4>Eggless Cake</h4>
+
+                </div>
+
+
+                <div class="col-md-3 text-center feature-name">
+                <img src="assets/images/cp.png" class="img-fluid rounded-start " alt="...">
+                <h4>Eggless Cake</h4>
+                </div>
+
+
+                <div class="col-md-3 text-center feature-name">
+                <img src="assets/images/cp.png" class="img-fluid rounded-start " alt="...">
+                <h4>Eggless Cake</h4>
+                </div>
+            </div>
+        </div>
+
+
+<!-- -----------------------------------------------Feature products ends here----------------------------------------------------------------------------- -->
 
 
 
@@ -230,6 +262,51 @@ include_once "nav.php";
 
 
 
+<!-- -----------------------------------------------four points section of this website starts here----------------------------------------------------------------------------- -->
+
+    <div class="container my-5 text-center">
+        
+    <h1>Why us ?</h1>
+
+    <div class="row">
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+  
+  <div class="col">
+    <div class="card h-100">
+      <img src="..." class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title accord-name">Card title</h5>
+        <p class="card-text">This is a short card.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      <img src="..." class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title accord-name">Card title</h5>
+        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      <img src="..." class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title accord-name">Card title</h5>
+        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      </div>
+    </div>
+  </div>
+</div>
+        </div>
+    </div>
+
+
+<!-- -----------------------------------------------four points section of this website ends here----------------------------------------------------------------------------- -->
+
+
+
 
 <!-- -----------------------------------------------ABOUT US PORTION ENDS HERE----------------------------------------------------------------------------- -->
 <div class="container my-5">
@@ -237,7 +314,7 @@ include_once "nav.php";
     <div class="accordion" id="accordionExample">
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingOne">
-      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+      <button class="accordion-button accord-name" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
         Accordion Item #1
       </button>
     </h2>
@@ -249,7 +326,7 @@ include_once "nav.php";
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingTwo">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+      <button class="accordion-button collapsed accord-name" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
         Accordion Item #2
       </button>
     </h2>
@@ -261,7 +338,7 @@ include_once "nav.php";
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingThree">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+      <button class="accordion-button collapsed accord-name" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
         Accordion Item #3
       </button>
     </h2>
@@ -289,6 +366,8 @@ include_once "nav.php";
                             <li>Mon-Fri: 5:00am to 9:00pm</li>
                             <li>Sat-Sun: 6:00am to 9:00pm</li>
                             <li> <i class="fas fa-phone-alt"></i>  - 0046523215563166</li>
+                            <li> <i class="fas fa-envelope"></i>  - cake@ovenmail.com</li>
+                            
                         </ul>
                         <img src="img/cake-piece.png" alt="">
                     </div>

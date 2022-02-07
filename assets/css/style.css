@@ -586,6 +586,20 @@ h1 {
     color: rgb(255, 0, 140);
 }
 
+.feature-name {
+    font-size: 35px;
+    font-weight: 700;
+    font-family: 'Chewy', cursive;
+    color: rgb(255, 0, 140);
+}
+
+.accord-name {
+    font-size: 25px;
+    font-weight: 700;
+    font-family: 'Chewy', cursive;
+    color:  rgb(223, 80, 139);
+}
+
 p {
     font-family: sans-serif;
 }
