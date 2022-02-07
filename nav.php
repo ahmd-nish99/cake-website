@@ -21,7 +21,7 @@
         </ul>
         
         <ul class="navbar-nav sm-icons">
-            <li class="nav-item"><a class="nav-link" href="#"><i class="fab fa-facebook-f"></i></a></li>
+            <li class="nav-item"><a class="nav-link" href="#"><i class="fas fa-phone-alt"></i></a></li>
             <li class="nav-item"><a class="nav-link" href="#"><i class="fab fa-instagram"></i></a></li>
             <li class="nav-item"><a class="nav-link" href="#"><i class="fab fa-twitter"></i></a></li>
             <li class="nav-item"><a class="nav-link" href="#"><i class="fab fa-pinterest-p"></i></a></li>

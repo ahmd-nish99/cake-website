@@ -582,8 +582,8 @@ hr.solid {
 h1 {
     font-size: 55px;
     font-weight: 700;
-    font-family: sans-serif;
-    color: #fff;
+    font-family: 'Chewy', cursive;
+    color: rgb(255, 0, 140);
 }
 
 p {
