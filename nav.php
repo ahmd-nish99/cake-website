@@ -13,7 +13,7 @@
             </li>
 
             <li class="nav-item">
-                <a class="nav-link headings" href="#">About</a>
+                <a class="nav-link headings" href="aboutus.php">About</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link headings " href="./products.php">Menu</a>
