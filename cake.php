@@ -105,6 +105,118 @@ $sql =" SELECT * FROM cake WHERE cake_status = 'ACTIVE' ";
 
 }
 
+
+
+// ---------------------------------------------------------------
+
+
+
+function get_all_cake_cat_1(){
+
+
+    $sql =" SELECT * FROM cake WHERE cake_status = 'ACTIVE' AND cake_cat = 1 ";
+    
+        $result = $this->db->query($sql);
+    
+        $cake_array = array();
+    
+    
+    
+        while($row=$result->fetch_array()){
+    
+            $cake_item = new cake();
+    
+      $cake_item->cake_id=$row["cake_id"];
+            $cake_item->cake_name=$row["cake_name"];
+            $cake_item->cake_discription=$row["cake_discription"];
+            $cake_item->cake_price=$row["cake_price"];
+            $cake_item->cake_cat=$row["cake_cat"];
+            
+            
+            $cake_array[]=$cake_item;
+        }
+    
+        return $cake_array;
+    
+    
+    }
+
+
+
+
+    
+// ---------------------------------------------------------------
+
+
+
+function get_all_cake_cat_2(){
+
+
+    $sql =" SELECT * FROM cake WHERE cake_status = 'ACTIVE' AND cake_cat = 2 ";
+    
+        $result = $this->db->query($sql);
+    
+        $cake_array = array();
+    
+    
+    
+        while($row=$result->fetch_array()){
+    
+            $cake_item = new cake();
+    
+      $cake_item->cake_id=$row["cake_id"];
+            $cake_item->cake_name=$row["cake_name"];
+            $cake_item->cake_discription=$row["cake_discription"];
+            $cake_item->cake_price=$row["cake_price"];
+            $cake_item->cake_cat=$row["cake_cat"];
+            
+            
+            $cake_array[]=$cake_item;
+        }
+    
+        return $cake_array;
+    
+    
+    }
+
+
+
+
+    
+
+
+
+function get_all_cake_cat_3(){
+
+
+    $sql =" SELECT * FROM cake WHERE cake_status = 'ACTIVE' AND cake_cat = 3 ";
+    
+        $result = $this->db->query($sql);
+    
+        $cake_array = array();
+    
+    
+    
+        while($row=$result->fetch_array()){
+    
+            $cake_item = new cake();
+    
+      $cake_item->cake_id=$row["cake_id"];
+            $cake_item->cake_name=$row["cake_name"];
+            $cake_item->cake_discription=$row["cake_discription"];
+            $cake_item->cake_price=$row["cake_price"];
+            $cake_item->cake_cat=$row["cake_cat"];
+            
+            
+            $cake_array[]=$cake_item;
+        }
+    
+        return $cake_array;
+    
+    
+    }
+
+
 // -------delete------------------------------------------------------------
 
 

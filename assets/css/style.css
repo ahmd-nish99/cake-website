@@ -1,31 +1,30 @@
-body{
+body {
     /*Free Vertical Stripes SVG provided by SVGeez.com - CC 4.0 License - © 2019 Megan Young */
-font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
-.contact{
-    background: url("assets/images/sample.jpg");    
+.contact {
+    background: url("assets/images/sample.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
 }
 
-.bgsvg{
-    background-color:transparent;
-fill:rgba(238, 186, 186, 0.29);
-background-size:500px;
-background-repeat:repeat;
-background-image:url("data:image/svg+xml;charset=utf8,%3C?xml version='1.0' encoding='utf-8'?%3E%3Csvg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 500 500' style='enable-background:new 0 0 500 500;' xml:space='preserve'%3E%3Cstyle type='text/css'%3E .st0{fill:rgba(238, 186, 186, 0.36);} %3C/style%3E%3Cg%3E%3Cg%3E%3Crect y='-51.5' class='st0' width='50' height='553'/%3E%3C/g%3E%3Cg%3E%3Crect x='100' y='-51.5' class='st0' width='50' height='553'/%3E%3C/g%3E%3Cg%3E%3Crect x='200' y='-51.5' class='st0' width='50' height='553'/%3E%3C/g%3E%3Cg%3E%3Crect x='300' y='-51.5' class='st0' width='50' height='553'/%3E%3C/g%3E%3Cg%3E%3Crect x='400' y='-51.5' class='st0' width='50' height='553'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
-
-
+.bgsvg {
+    background-color: transparent;
+    fill: rgba(238, 186, 186, 0.29);
+    background-size: 500px;
+    background-repeat: repeat;
+    background-image: url("data:image/svg+xml;charset=utf8,%3C?xml version='1.0' encoding='utf-8'?%3E%3Csvg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 500 500' style='enable-background:new 0 0 500 500;' xml:space='preserve'%3E%3Cstyle type='text/css'%3E .st0{fill:rgba(238, 186, 186, 0.36);} %3C/style%3E%3Cg%3E%3Cg%3E%3Crect y='-51.5' class='st0' width='50' height='553'/%3E%3C/g%3E%3Cg%3E%3Crect x='100' y='-51.5' class='st0' width='50' height='553'/%3E%3C/g%3E%3Cg%3E%3Crect x='200' y='-51.5' class='st0' width='50' height='553'/%3E%3C/g%3E%3Cg%3E%3Crect x='300' y='-51.5' class='st0' width='50' height='553'/%3E%3C/g%3E%3Cg%3E%3Crect x='400' y='-51.5' class='st0' width='50' height='553'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
 }
-.strtr{
-    background-color:transparent;
-    fill:rgb(244, 203, 203);
-    background-size:500px;
-    background-repeat:repeat-x;
-    background-image:url("data:image/svg+xml;charset=utf8,%3Csvg id='Layer_1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 500 500' style='enable-background:new 0 0 500 500'%3E%3Cstyle type='text/css'%3E .st0{fill:rgb(244, 203, 203);} %3C/style%3E%3Cpath class='st0' d='M0,0v9h0.5C0.8,22.3,11.7,33,25,33S49.2,22.3,49.5,9h1C50.8,22.3,61.7,33,75,33S99.2,22.3,99.5,9h1 c0.3,13.3,11.2,24,24.5,24s24.2-10.7,24.5-24h1c0.3,13.3,11.2,24,24.5,24s24.2-10.7,24.5-24h1c0.3,13.3,11.2,24,24.5,24 s24.2-10.7,24.5-24h1c0.3,13.3,11.2,24,24.5,24s24.2-10.7,24.5-24h1c0.3,13.3,11.2,24,24.5,24s24.2-10.7,24.5-24h1 c0.3,13.3,11.2,24,24.5,24s24.2-10.7,24.5-24h1c0.3,13.3,11.2,24,24.5,24s24.2-10.7,24.5-24h1c0.3,13.3,11.2,24,24.5,24 s24.2-10.7,24.5-24h0.5V0H0z'/%3E%3C/svg%3E");
+
+.strtr {
+    background-color: transparent;
+    fill: rgb(244, 203, 203);
+    background-size: 500px;
+    background-repeat: repeat-x;
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg id='Layer_1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 500 500' style='enable-background:new 0 0 500 500'%3E%3Cstyle type='text/css'%3E .st0{fill:rgb(244, 203, 203);} %3C/style%3E%3Cpath class='st0' d='M0,0v9h0.5C0.8,22.3,11.7,33,25,33S49.2,22.3,49.5,9h1C50.8,22.3,61.7,33,75,33S99.2,22.3,99.5,9h1 c0.3,13.3,11.2,24,24.5,24s24.2-10.7,24.5-24h1c0.3,13.3,11.2,24,24.5,24s24.2-10.7,24.5-24h1c0.3,13.3,11.2,24,24.5,24 s24.2-10.7,24.5-24h1c0.3,13.3,11.2,24,24.5,24s24.2-10.7,24.5-24h1c0.3,13.3,11.2,24,24.5,24s24.2-10.7,24.5-24h1 c0.3,13.3,11.2,24,24.5,24s24.2-10.7,24.5-24h1c0.3,13.3,11.2,24,24.5,24s24.2-10.7,24.5-24h1c0.3,13.3,11.2,24,24.5,24 s24.2-10.7,24.5-24h0.5V0H0z'/%3E%3C/svg%3E");
 }
 
 .headings {
@@ -538,9 +537,6 @@ hr.solid {
     }
 }
 
-
-
-
 .zoro {
     background: url("../images/sample.jpg") no-repeat center center;
     background-size: cover;
@@ -591,13 +587,28 @@ h1 {
     font-weight: 700;
     font-family: 'Chewy', cursive;
     color: rgb(255, 0, 140);
+    /* border-s */
+}
+
+.feature-name-menue {
+    font-size: 35px;
+    font-weight: 700;
+    font-family: 'Chewy', cursive;
+    color: rgb(255, 0, 140);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.26);
+    transition: 0.3s;
+    padding-bottom: 3%;
+}
+
+.feature-name-menue a {
+    color: rgb(255, 0, 140);
 }
 
 .accord-name {
     font-size: 25px;
     font-weight: 700;
     font-family: 'Chewy', cursive;
-    color:  rgb(223, 80, 139);
+    color: rgb(223, 80, 139);
 }
 
 p {
